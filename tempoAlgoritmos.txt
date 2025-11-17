@@ -1,0 +1,3 @@
+Tempo Sequencial: 170.83 ms
+Tempo Paralelo (2 Threads): 111.88 ms
+Tempo Distribuído (Servidor + 1 Cliente): 201.35 ms
